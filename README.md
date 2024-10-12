@@ -27,3 +27,12 @@ More information can be found [here](https://github.com/foostan/crkbd/tree/v3-fi
 - Connect left half with computer. Connect left and right half with TRRS cable.
 
 - Test if every switch works [here](https://config.qmk.fm/#/test).
+
+
+## Layout Lookup
+When trying to learn new layouts on your keyboard it can be helpful to have a visualization of your keymap in order to find specific characters.
+
+- Create a visualization of your keymap [here](https://keymap-drawer.streamlit.app/).
+- Export and download as SVG or PNG.
+
+![My Keymap](./my_keymap.svg)
